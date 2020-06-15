@@ -1,5 +1,5 @@
 # ml-image-format-conversion
-Consolicate efforts for interconversion of image input formats in machine learning models
+Consolidate efforts for interconversion of image input formats in machine learning models
 
 ## Image formats:
 COCO, PascalVOC, YOLO, tfrecord
